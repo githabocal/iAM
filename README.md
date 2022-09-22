@@ -1,4 +1,4 @@
-# iAM - Providing s3, Dynamo DB and API Gateway access in AWS
+# iAM - Providing s3, Dynamo DB and API Gateway READ access ONLY in AWS
 
 -   Head to users in iAM and add user names and select AWS access type as password and set a custom password for users and click ```Next:Permission```
 -   Add users to a group is selected by default and click on ```create group```
